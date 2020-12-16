@@ -1,3 +1,3 @@
 # Transformers... Attentionize!!
 
-![](attention.png =100x20)
+![](attention.png)
