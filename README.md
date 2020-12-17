@@ -23,3 +23,5 @@
 #### What is attention?
 
 ![](equation.png)
+
+#### The score matrix determines how much focus should a word be put on other words. So each word will have a score that corresponds to other words in the time-step. The higher the score the more focus. This is how the queries are mapped to the keys.
