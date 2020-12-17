@@ -9,7 +9,7 @@
 #### In the language realm, the transformer is used in any text-to-text scenario, where we want to alter some incoming text to a different form of output text.
 #### Examples include translation, summarization, or semantic labelling.
 
-![](transformer_mid_level.png)
+![](transformer_med_level.png)
 
 #### There are different types of transformers, but the one here is composed of an encoder and a decoder.
 
