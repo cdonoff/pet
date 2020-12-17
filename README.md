@@ -25,3 +25,4 @@
 
 #### What is attention?
 
+![](equation.png)
